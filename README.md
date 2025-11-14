@@ -1,6 +1,6 @@
 # Signal Detection Theory (SDT) Cognitive Model
 
-This project is a Python-based simulation and visualization of **Signal Detection Theory (SDT), a core mathematical model used in cognitive science to measure decision-making under uncertainty. 
+This project is a Python-based simulation and visualization of **Signal Detection Theory (SDT)**, a core mathematical model used in cognitive science to measure decision-making under uncertainty. 
 This script models how an observer's sensitivity ($d'$) and response bias ($c$) interact to produce measurable **Hit Rates** and **False Alarm Rates**.
 
 This project demonstrates proficiency in:
@@ -19,7 +19,7 @@ This model simulates an observer with moderate sensitivity ($d' = 1.0$) and a **
 * **Metrics:** Hit Rate: 0.6915, False Alarm Rate: 0.3085
 * **Interpretation:** The observer prioritizes avoiding false alarms. This is visible in the graph because the Criterion is shifted toward the Signal distribution, leaving a large area of the Noise distribution (blue) as a Correct Rejection.
 
-![Baseline Model: d'=1.0, c=0.5](sdt_baseline_d1_c0_5_shaded.png)
+![Baseline Model: d'=1.0, c=0.5](sdt_baseline_d1_c0_5.png)
 
 ---
 
